@@ -1,8 +1,8 @@
 # wiki
 
 > This repository is used to save my markdown documents of wiki.</br>
-The homepage is http://wiki.iamstf.xyz
-此存储库用于保存我的wiki标记文档。主页是http://wiki.iamstf.xyz
+The homepage is http://wiki.iamstf.xyz</br>
+此存储库用于保存我的wiki标记文档。</br>主页是http://wiki.iamstf.xyz
 
 <h3>About the documents</h3>
 <h3>关于文档</h3>
